@@ -18,7 +18,7 @@ The repository is updated after each lab session.
 | Lab | Title | Folder |
 |-----|-------|--------|
 | 01 | Sentiment Analysis Using Traditional Machine Learning | [Lab-01-Machine-Learning](Lab-01-Machine-Learning/) |
-| 02 | LLMs in Everyday Life (Group Activity) | [Lab-02-LLM-Everyday-Life](Lab-02-LLM-Everyday-Life/) |
+| 02 | AI in Everyday Challenges (Group Activity) | [Lab-02-LLM-Everyday-Life](Lab-02-LLM-Everyday-Life/) |
 | 03 | Building a Tiny Transformer | [Lab-03-Tiny-Transformer](Lab-03-Tiny-Transformer/) |
 | 04 | Fine-Tuning a Language Model | [Lab-04-Fine-Tune](Lab-04-Fine-Tune/) |
 | 05 | Retrieval-Augmented Generation (RAG) Pipeline | [Lab-05-RAG-Pipeline](Lab-05-RAG-Pipeline/) |
